@@ -12,6 +12,7 @@ Usage:
 	
 	python3 -m pip install colorama
 	
+	
 	python3 morse-code.py
 	
 	
