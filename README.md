@@ -17,7 +17,7 @@ Usage:
 	
 	
 	
-Writer:
+Coded By:
 
 	SHIWPTS13
 	
