@@ -1,7 +1,7 @@
 #The Morser
 
-* -convert text to morse code
-* -convert morse code to text
+* convert text to morse code
+* convert morse code to text
 
 
 ## Usage:
