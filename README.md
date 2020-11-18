@@ -1,10 +1,10 @@
-The Morser
+#The Morser
 
--convert text to morse code
--convert morse code to text
+* -convert text to morse code
+* -convert morse code to text
 
 
-Usage:
+## Usage:
 	
 	pip3 install colorama
 	
@@ -17,14 +17,11 @@ Usage:
 	
 	
 	
-Coded By:
-
-	SHIWPTS13
+## Coded By: [SHIWPTS13](https://guardiran.org/profile/30620-shiwpts13)
 	
 	
-Powered By Guardiran Security Team
+# Powered By [Guardiran Security Team](https://guardiran.org)
 
-Website: https://Guardiran.org
 	
 	
 
